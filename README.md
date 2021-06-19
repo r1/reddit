@@ -1,3 +1,11 @@
+# Reddit Clone * In Development *
+
+### This is going to be a full stack Reddit clone built with Next.js. The frontend is going to built first then the backend.
+
+
+# The design:
+<img src="./images/Design.png"/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
